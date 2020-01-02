@@ -1,6 +1,6 @@
 ---
 title: "Préparer nos enfants à 2040"
-date: 2019-12-31T18:10:59+01:00
+date: 2020-01-01T18:10:59+01:00
 draft: false
 tags: ["education"]
 disquus: false
