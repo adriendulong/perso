@@ -46,7 +46,7 @@ paginate = 10
 
     # Custom list of Javascript files to load. Just like custom CSS you can place js files under
     # `static/js` folder and specify path here as `js/script-name.js`.
-    #customJS = ["js/abc.js", "js/xyz.js"]
+    customJS = ["js/usafathom-analytics.js"]
 
 # Main menu which appears below site header.
 [[menu.main]]
